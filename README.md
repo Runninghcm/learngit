@@ -1,8 +1,8 @@
 # learngit
-learn git
-1、Git learning note
-Git learning note：
-1\Note:all your operate must be in your target document
+learn git \n
+1、Git learning note \n
+Git learning note： \n
+1\Note:all your operate must be in your target document \n
 2\if it's the first time you commit the  target document, maybe you should initialize your target document.
 you should use  “git init “ initialize your target document fist
 3\” git add . ” means add all the subfile  in your target document
